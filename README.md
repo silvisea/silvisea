@@ -1,5 +1,5 @@
 ## начинающий веб-разработчик ⥰ языки программирования, с которыми я работала:
-##ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⥤ Golang, HTML, Python, JavaScript ▹ через VS
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤ    ㅤ⥤ Golang, HTML, Python, JavaScript ▹ через VS
 ## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ связь через телеграмм › @ silvioza
 ## <img width="2560" height="654" alt="image" src="https://github.com/user-attachments/assets/aa0c6f45-4791-4205-b085-611f28d31235" />
 
